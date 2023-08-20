@@ -1,0 +1,5 @@
+{{#user}}
+Name: Mooaz Sayyed
+Skills: HTML,Python.Linux,SQL,Software Testing,Manual Testing
+Email: sayyedmooaz@gmail.com
+{{/user}}
